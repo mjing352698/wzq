@@ -18,3 +18,4 @@ import Father from '../../lianxi3/src/views/father.vue'
 display: flex;
     justify-content: center;
     align-items: center;
+const
